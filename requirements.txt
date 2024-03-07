@@ -1,0 +1,14 @@
+
+# mkvirtualenv -a ~/Projects/python3/pwned_passwords/ -r requirements.txt pwned_passwords
+
+
+# Core
+requests==2.31.0
+sqlalchemy==2.0.28
+
+
+# Development
+coverage==7.4.3
+flake8==7.0.0
+mypy==1.8.0
+types-requests==2.31.0.20240218
